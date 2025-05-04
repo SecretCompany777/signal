@@ -1,8 +1,8 @@
 {
-  "name": "libsignal-node",
+  "name": "signal-node",
   "version": "2.0.1",
-  "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "nstar-y/libsignal",
+  "description": "Open Whisper Systems' signal for Node.js",
+  "repository": "SecretCompany777/signal",
   "main": "index.js",
   "keywords": [
     "signal",
